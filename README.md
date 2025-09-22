@@ -1,5 +1,13 @@
 # Shopping Static Website
 
-## Description
+## DESCRIPTION
 
-## Features
+
+
+
+## FEATURES
+
+
+
+
+
